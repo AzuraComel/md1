@@ -1,4 +1,4 @@
-global.owner = ['94742134288'] // Put your number here
+global.owner = ['6282301133993','6283140923364','6283123049451'] // Put your number here
 
 global.mods = [] // Want some help?
 
